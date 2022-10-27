@@ -24,7 +24,7 @@ class StringySpellsTest {
         left = new String[]{"dg","apus","catiraffe","a","plusat","","aplusdog#3337#","coe","ww","atsand",""};
         alOms = new String[]{"ds","as","ci","as","ps","##","am","c4","ws","cs","77"};
         mids = new String[]{"o","l","r","p","s","#","g","d","o","s","7"};
-        aves = new double[]{3.5,4.5,11,3.5,8,1,15,6,4,10.5,3};
+        aves = new double[]{3.5,4.5,11,3.5,8,1,15,6,3.5,10.5,3};
         flips = new String[]{"cog","pplus","aatgiraffe","ap","dluscat","#","pplusdog#13337#","code","pow","aatsand","7"};
     }
 
